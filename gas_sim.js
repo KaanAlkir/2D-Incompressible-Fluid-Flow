@@ -1,5 +1,3 @@
-// script.js
-
 // ——— Parameters & State ———
 const N    = 200;
 const size = (N + 2) * (N + 2);
